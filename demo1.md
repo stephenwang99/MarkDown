@@ -35,7 +35,7 @@ This is ~~stickethought~~ format.
 * Email: Stephenwang919@gmail.com  
 
 ## Numbering list
-1 Name: Stephen
+1 Name: Stephen  
 2 Email: Stephenwang919@gmail.com
 
 ## Multilevel list
